@@ -17,7 +17,7 @@
 typedef enum bool
 {
 false = 0,
-   true
+true
 } bool;
 
 /**
